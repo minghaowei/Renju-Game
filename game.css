@@ -1,0 +1,13 @@
+td{
+  height: 40px;
+  width: 40px;
+  text-align: center;
+  border: 2px solid #042c6d;
+  font-size: 24px;
+  background-color: #3771ce;
+  color = "grey";
+}
+
+table{
+  margin-bottom: 100px;
+}
